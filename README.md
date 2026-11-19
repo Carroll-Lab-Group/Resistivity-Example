@@ -1,2 +1,3 @@
 # Resistivity-Example
 Example code for electrical resistivity tomography
+This is a test repo that will be updated later...
